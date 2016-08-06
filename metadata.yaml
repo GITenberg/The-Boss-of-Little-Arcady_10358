@@ -1,0 +1,36 @@
+_repo: The-Boss-of-Little-Arcady_10358
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: O'Neill, Rose Cecil
+    aliases:
+    - Wilson, Rose Cecil O'Neill
+    - Latham, Rose Cecil O'Neill
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '33571'
+    url: http://www.gutenberg.org/2009/agents/33571
+creator:
+  author:
+    agent_name: Wilson, Harry Leon
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '1206'
+    url: http://www.gutenberg.org/2009/agents/1206
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Villages -- Fiction'
+- GITenberg
+title: The Boss of Little Arcady
+url: http://www.gutenberg.org/ebooks/10358
