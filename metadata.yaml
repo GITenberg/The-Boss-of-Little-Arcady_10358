@@ -1,5 +1,5 @@
 _repo: The-Boss-of-Little-Arcady_10358
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: O'Neill, Rose Cecil
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '33571'
     url: http://www.gutenberg.org/2009/agents/33571
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilson, Harry Leon
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1206
     wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10358#The-Boss-of-Little-Arcady
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
